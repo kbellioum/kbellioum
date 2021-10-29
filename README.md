@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Some infos about my reading
+<a href="https://app.daily.dev/kbellioum"><img src="https://api.daily.dev/devcards/130b7885ddbb4159922d6908509c9fbc.png?r=hcz" width="400" alt="Karim Bellioum's Dev Card"/></a>
+
 <!--
 **kbellioum/kbellioum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
