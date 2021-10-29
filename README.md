@@ -3,7 +3,7 @@
 Some infos about my reading
 
 
-<a href="https://app.daily.dev/kbellioum"><img src="https://github.com/kbellioum/kbellioum/blob/main/devcard.svg" width="400" alt="Karim Bellioum's Dev Card"/></a>
+<a href="https://app.daily.dev/kbellioum"><img src="https://github.com/kbellioum/kbellioum/blob/main/devcard.svg" width="200" alt="Karim Bellioum's Dev Card"/></a>
 
 <!--
 **kbellioum/kbellioum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
