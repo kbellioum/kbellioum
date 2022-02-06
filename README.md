@@ -5,6 +5,10 @@ Some infos about my reading
 
 <a href="https://app.daily.dev/kbellioum"><img src="https://github.com/kbellioum/kbellioum/blob/main/devcard.svg" width="200" alt="Karim Bellioum's Dev Card"/></a>
 
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbellioum&theme=dracula&hide_border=true)
+
 <!--
 **kbellioum/kbellioum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
