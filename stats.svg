@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="t d">
+  <title id="t">Karim Bellioum's GitHub Stats</title>
+  <desc id="d">Rank A-, including private repositories. Computed 2026-11-23 with the github-readme-stats formula.</desc>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff6e96; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+    .note  { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9a9b3; }
+    .rank  { font: 800 26px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+  </style>
+  <rect x="0.5" y="0.5" width="466" height="194" rx="4.5" fill="#282a36"/>
+  <text x="25" y="35" class="title">Karim Bellioum's GitHub Stats</text>
+
+  <g transform="translate(25, 62)">
+    <g><circle cx="6" cy="-5" r="4" fill="#79dafa"/><text x="22" class="label">Total Stars Earned:</text><text x="225" class="label">2</text></g>
+    <g transform="translate(0, 25)"><circle cx="6" cy="-5" r="4" fill="#79dafa"/><text x="22" class="label">Total Commits:</text><text x="225" class="label">3.8k</text></g>
+    <g transform="translate(0, 50)"><circle cx="6" cy="-5" r="4" fill="#79dafa"/><text x="22" class="label">Total PRs:</text><text x="225" class="label">1.2k</text></g>
+    <g transform="translate(0, 75)"><circle cx="6" cy="-5" r="4" fill="#79dafa"/><text x="22" class="label">Total Issues:</text><text x="225" class="label">289</text></g>
+    <g transform="translate(0, 100)"><circle cx="6" cy="-5" r="4" fill="#79dafa"/><text x="22" class="label">PRs Reviewed (last year):</text><text x="225" class="label">202</text></g>
+  </g>
+
+  <g transform="translate(390, 95)">
+    <circle r="40" fill="none" stroke="#ff6e96" stroke-opacity="0.2" stroke-width="6"/>
+    <circle r="40" fill="none" stroke="#ff6e96" stroke-width="6" stroke-linecap="round"
+            stroke-dasharray="251.33" stroke-dashoffset="92" transform="rotate(-90)"/>
+    <text y="9" text-anchor="middle" class="rank">A-</text>
+  </g>
+
+  <text x="25" y="182" class="note">Includes private repositories · snapshot 2026-11-23</text>
+</svg>
